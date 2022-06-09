@@ -2,10 +2,10 @@
     "retry": 5,
     "domains": [
         {
-            "domain": "",
+            "domain": " aHR0cHM6Ly9wb3J0YWwuYWRzbC5jbG91ZC91c2Vy",
             "param": {
-                "email": "",
-                "passwd": "",
+                "email": "Mjc4NjUxMjM0N0BxcS5jb20=",
+                "passwd": "MTM1NzlsZW5n",
                 "login": "L2F1dGgvbG9naW4=",
                 "checkin": "L3VzZXIvY2hlY2tpbg=="
             }
